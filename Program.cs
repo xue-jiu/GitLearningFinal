@@ -8,6 +8,7 @@ namespace GitLearningFinal
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I Win!");
+            Console.WriteLine("第一次提交");
         }
     }
 }
